@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar .navbar-brand{
+	margin-left: 100px;
+}
+
+.navbar-collapse{
+	float: right;
+}
+
+
+
+.container {
+	margin-top: 50px;
+}
+
+.articles{
+	border : 2px solid #ccc;
+}
+
+footer{
+	margin: 0 auto;
+	background-color: #f8f9fa!important;
+	text-align: center;
+	color: black;
+	margin-top: 50px;
+	padding: 10px 0 10px 0;
+
+}

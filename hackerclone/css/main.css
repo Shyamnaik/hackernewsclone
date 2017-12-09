@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar .navbar-brand{
+	margin-left: 100px;
+}
+
+.navbar-collapse{
+	float: right;
+}
+
+
+
+.container {
+	margin-top: 200px;
+}
